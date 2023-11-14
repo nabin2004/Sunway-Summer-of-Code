@@ -1,0 +1,43 @@
+# Description
+This syllabus is taken from Harikirat Singh Paid Cohort, I've kept here and used it for refrence/guidance purpose.
+In the 1-100 journey, learn advanced Backend communication, Advanced Devops, System design, and set up real-world open-source projects. Also, build 2 capstone projects: a trading app and a Zapier clone.
+
+## Syllabus
+
+### Advanced Backend, System Design
+
+- [ ] Advanced backend communication
+- [ ] Message queues and PubSubs
+- [ ] Proxies, Load balancers
+- [ ] Redis Deep dive
+- [ ] Kafka Deep dive
+- [ ] Common Design Patterns in JS
+- [ ] Advanced DB concepts (Indexing, normalization)
+- [ ] Rate limiting
+- [ ] Captchas and DDoS protection
+- [ ] Sharding, Replication, Resiliency
+- [ ] Horizontal and vertical scaling
+- [ ] Polling and websockets
+- [ ] Grpc
+- [ ] Capacity Estimation
+- [ ] Load Balancers
+- [ ] CAP Theorem
+- [ ] Testing Node.js Apps in 2023
+- [ ] Real-time communication, basics of WebRTC
+
+### Advanced Devops
+
+- [ ] Container Orchestration, Docker Swarm
+- [ ] Kubernetes
+- [ ] CI/CD
+- [ ] Monitoring systems basics to advance
+- [ ] Prometheus, Grafana
+- [ ] Newrelic as a paid service
+- [ ] Serverless Deep dive
+- [ ] AWS Constructs (EC2, S3, CDNs, LB, EKS)
+
+## Projects
+
+- [ ] Zerodha end to end
+- [ ] Zapier end to end
+- [ ] Real-world open-source projects
