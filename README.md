@@ -13,7 +13,10 @@ Learn the MERN Stack from beginner to advanced, covering the basics of DevOps, o
   - [x] Data types
   - [x] Operators
   - [x] Expressions
-  - [ ] Control flow (if statements, loops)
+  - [ ] Control flow
+    - [ ] if statements
+    - [ ] For loops
+    - [ ] While loops
   - [ ] Functions and scope
 - [ ] Understanding asynchronous nature
   - [ ] Callback functions
