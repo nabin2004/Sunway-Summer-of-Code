@@ -8,9 +8,11 @@ Learn the MERN Stack from beginner to advanced, covering the basics of DevOps, o
 ### Foundation
 
 #### Foundation Javascript, async nature of JS
-- [ ] Basics of JavaScript syntax
-  - [ ] Variables and data types
-  - [ ] Operators and expressions
+- [x] Basics of JavaScript syntax
+  - [x] Variables
+  - [x] Data types
+  - [x] Operators
+  - [x] Expressions
   - [ ] Control flow (if statements, loops)
   - [ ] Functions and scope
 - [ ] Understanding asynchronous nature
