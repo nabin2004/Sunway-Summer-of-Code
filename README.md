@@ -4,9 +4,9 @@
 ### Week 1-2:
 
 #### **Foundation JavaScript, async nature of JS:**
-   - [-] Basics of JavaScript syntax
-      - [-] Variables and data types
-      - [-] Operators and expressions
+   - [ ] Basics of JavaScript syntax
+      - [x] Variables and data types
+      - [x] Operators and expressions
       - [ ] Control flow (if statements, loops)
       - [ ] Functions and scope
    - [ ] Understanding asynchronous nature
