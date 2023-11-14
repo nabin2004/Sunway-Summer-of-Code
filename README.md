@@ -15,10 +15,17 @@ Learn the MERN Stack from beginner to advanced, covering the basics of DevOps, o
   - [x] Expressions
   - [x] Control flow
     - [x] if statements
-    - [ ] Ternary operator
-    - [ ] For loops
-    - [ ] While loops
-  - [ ] Functions and scope
+    - [x] Ternary operator
+    - [x] For loops
+    - [x] While loops
+    - [x] Do While loop
+  - [x] Functions and scope
+  - [ ] ES6 Features
+    - [ ] Arrow Functions
+    - [ ] Template Literals
+    - [ ] Destructuring
+    - [ ] Let and Const
+    - [ ] Classes and Modules
 - [ ] Understanding asynchronous nature
   - [ ] Callback functions
   - [ ] Promises and chaining
