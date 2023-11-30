@@ -26,14 +26,15 @@ Learn the MERN Stack from beginner to advanced, covering the basics of DevOps, o
     - [ ] Destructuring
     - [ ] Let and Const
     - [ ] Classes and Modules
-- [ ] Understanding asynchronous nature
-  - [ ] Callback functions
-  - [ ] Promises and chaining
-  - [ ] Async/await syntax
+- [x] Understanding asynchronous nature
+  - [x] Callback functions
+  - [x] Promises
+  - [ ] Chaining
+  - [X] Async/await syntax
 
 #### Node.js and its runtime
-- [ ] Introduction to Node.js
-  - [ ] Installation and setup
+- [x] Introduction to Node.js
+  - [x] Installation and setup
   - [ ] Node.js modules and npm
   - [ ] Event-driven architecture
 
