@@ -7,6 +7,17 @@ Learn the MERN Stack from beginner to advanced, covering the basics of DevOps, o
 
 ### Foundation
 
+#### Git and Github
+- [ ] git add .
+- [ ] git commit -m "message"
+- [ ] Github account setup
+- [ ] git push origin main
+- [ ] git branch
+- [ ] git switch branch_name
+- [ ] git checkout branch_name
+- [ ] Conflict Resolution between files
+
+
 #### Foundation Javascript, async nature of JS
 - [x] Basics of JavaScript syntax
   - [x] Variables
